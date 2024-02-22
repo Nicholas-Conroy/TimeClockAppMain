@@ -93,7 +93,7 @@ export default function TimeClock({ route }) {
 
 return (
   // <View style={styles.main(trfaksue)}>
-  <View>
+  <View style={{flex: 1, backgroundColor: '#191b1f'}}>
 
     <Text style={styles.inputText}>Time Clock</Text>
 
